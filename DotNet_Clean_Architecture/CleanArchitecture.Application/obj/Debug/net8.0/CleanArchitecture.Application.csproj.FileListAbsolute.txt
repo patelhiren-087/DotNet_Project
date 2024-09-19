@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.deps.json
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Infra.Data.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\bin\Debug\net8.0\CoreCleanArchitecture.Domain.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\bin\Debug\net8.0\CleanArchitecture.Infra.Data.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\bin\Debug\net8.0\CoreCleanArchitecture.Domain.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\refint\CleanArchitecture.Application.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\CleanArchitecture.Application.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Application\obj\Debug\net8.0\ref\CleanArchitecture.Application.dll

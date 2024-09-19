@@ -1,0 +1,22 @@
+﻿@model CleanArchitecture.Application.ViewModels.ProjectViewModel;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var project in Model.Projects)
+        {
+            <tr>
+                <td>@project.Id</td>
+                <td>@project.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

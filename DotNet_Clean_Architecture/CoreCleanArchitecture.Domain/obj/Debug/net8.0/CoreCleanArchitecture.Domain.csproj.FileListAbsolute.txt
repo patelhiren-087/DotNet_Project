@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\bin\Debug\net8.0\CoreCleanArchitecture.Domain.deps.json
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\bin\Debug\net8.0\CoreCleanArchitecture.Domain.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\bin\Debug\net8.0\CoreCleanArchitecture.Domain.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\obj\Debug\net8.0\CoreCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\obj\Debug\net8.0\CoreCleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\obj\Debug\net8.0\CoreCleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\obj\Debug\net8.0\CoreCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\obj\Debug\net8.0\CoreCleanArchitecture.Domain.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\obj\Debug\net8.0\refint\CoreCleanArchitecture.Domain.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\obj\Debug\net8.0\CoreCleanArchitecture.Domain.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CoreCleanArchitecture.Domain\obj\Debug\net8.0\ref\CoreCleanArchitecture.Domain.dll

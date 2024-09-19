@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\bin\Debug\net8.0\CleanArchitecture.Infra.Data.deps.json
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\bin\Debug\net8.0\CleanArchitecture.Infra.Data.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\bin\Debug\net8.0\CleanArchitecture.Infra.Data.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\bin\Debug\net8.0\CoreCleanArchitecture.Domain.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\bin\Debug\net8.0\CoreCleanArchitecture.Domain.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.AssemblyInfo.cs
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.csproj.CopyComplete
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\refint\CleanArchitecture.Infra.Data.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.pdb
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\ref\CleanArchitecture.Infra.Data.dll
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\bin\Debug\net8.0\CleanArchitecture.Infra.Data.runtimeconfig.json
+C:\Users\admin\Desktop\DotNet_Project\DotNet_Clean_Architecture\CleanArchitecture.Infra.Data\obj\Debug\net8.0\CleanArchitecture.Infra.Data.genruntimeconfig.cache
